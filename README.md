@@ -2,7 +2,7 @@
 # IODigital Assignment
 
 ### Illustration of end result
-<img src="docs/screenshots/screenshot_1.png" alt='Illustration of the final output' width="250">
+<img src="docs/screenshots/screenshot_final.png" alt='Illustration of the final output' width="250">
 
 ## Problem Statement 
 Create a very cool Client Application  
