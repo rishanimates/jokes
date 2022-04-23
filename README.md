@@ -2,7 +2,7 @@
 # IODigital Assignment
 
 ### Illustration of end result
-<img src="docs/screenshots/screenshot_final.png" alt='Illustration of the final output' width="250">
+<img src="docs/screenshots/screenshot_final.png" alt='Illustration of the final output' width="80%">
 
 ## Problem Statement 
 Create a very cool Client Application  
@@ -80,13 +80,13 @@ https - `git clone https://github.com/rishanimates/jokes.git`
 
 ## Screenshots
 # First Loading
-<img src="docs/screenshots/screenshot_1.png" alt='Final output' width="250">
+<img src="docs/screenshots/screenshot_1.png" alt='Final output' width="60%">
 
 # Add to Favourite
-<img src="docs/screenshots/screenshot_21.png" alt='Add to Favourite' width="250">
+<img src="docs/screenshots/screenshot_21.png" alt='Add to Favourite' width="60%">
 
 # Auto fetch joke
-<img src="docs/screenshots/screenshot_3.png" alt='Auto Fetch jokes' width="250">
+<img src="docs/screenshots/screenshot_3.png" alt='Auto Fetch jokes' width="60%">
 
 # Notifications 
-<img src="docs/screenshots/screenshot_4.png" alt='Application Notifications' width="250">
+<img src="docs/screenshots/screenshot_4.png" alt='Application Notifications' width="60%">
