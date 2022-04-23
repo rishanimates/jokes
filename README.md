@@ -83,10 +83,10 @@ https - `git clone https://github.com/rishanimates/jokes.git`
 <img src="docs/screenshots/screenshot_1.png" alt='Final output' width="250">
 
 # Add to Favourite
-<img src="docs/screenshots/screenshot_2.png" alt='Add to Favourite' width="250">
+<img src="docs/screenshots/screenshot_21.png" alt='Add to Favourite' width="250">
 
 # Auto fetch joke
-<img src="docs/screenshots/screenshot_3.png" alt='Add to Favourite' width="250">
+<img src="docs/screenshots/screenshot_3.png" alt='Auto Fetch jokes' width="250">
 
 # Notifications 
-<img src="docs/screenshots/screenshot_4.png" alt='Add to Favourite' width="250">
+<img src="docs/screenshots/screenshot_4.png" alt='Application Notifications' width="250">
