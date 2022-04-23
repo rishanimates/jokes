@@ -7,16 +7,13 @@
 ## Problem Statement 
 Create a very cool Client Application  
 
-We as developers like Chuck Norris jokes. Therefore we created the following assignment to test your Frontend skills/ knowledge. Please create a git repo before you start this assignment. When committing please give a proper description to explain your choices. 
+We as developers like Chuck Norris jokes. Therefore we created the following assignment. When committing please give a proper description to explain your choices. 
 
 - It should at least run in chrome (so you can use es6). 
 
 - Please don't use any boilerplates. 
 
 - You can/may use any framework/lib you want. 
-
-- When finished, send a link of the repo.
-
 
 ## Requirements
 
