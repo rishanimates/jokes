@@ -1,0 +1,73 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+header {
+  position: fixed;
+  background-color: #1976d2;
+  width: 100%;
+  margin: 0 auto;
+  height: 56px;
+  color: #ffffff;
+  padding: 0px 12px;
+  line-height: 56px;
+  font-size: 24px;
+  background-image: url(./chuck-norris.png);
+  background-position: 97% 4px;
+  background-size: 50px;
+  background-repeat: no-repeat;
+  z-index: 5;
+}
+
+section {
+  padding-top: 60px;
+  margin: 0 10px;
+}
+
+.footer {
+  position: relative;
+  width: 100%;
+  min-height: 50px;
+  padding: 14px;
+  background-color: #172337;
+  border-top: 1px solid #ddd;
+  margin-top: 25px;
+  text-align: center;
+  color: white;
+}
+
+.section-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 25px;
+}
+
+.badge {
+  font-size: 18px;
+  border-radius: 100px;
+  background: orange;
+  padding: 0 6px;
+}
+
+ul {
+  background: transparent;
+}
+
+li {
+  background-color: #eaeaea;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: 500px) {
+  .list-box, .fav-box {
+    min-width: 100% !important;
+  }
+}

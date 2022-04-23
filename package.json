@@ -1,0 +1,49 @@
+{
+  "name": "jokes",
+  "version": "1.0.0",
+  "description": "IOdigital Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test",
+    "start": "webpack serve --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishanimates/jokes.git"
+  },
+  "keywords": [],
+  "author": "Rhushiraj Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishanimates/jokes/issues"
+  },
+  "homepage": "https://github.com/rishanimates/jokes#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.5",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.8.1"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.6.2",
+    "@mui/material": "^5.6.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^14.1.1",
+    "axios": "^0.26.1",
+    "notistack": "^2.0.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.1",
+    "react-test-renderer": "^18.0.0"
+  }
+}
